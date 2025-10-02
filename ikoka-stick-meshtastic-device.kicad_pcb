@@ -8868,18 +8868,6 @@
 			(layer "B.Fab")
 			(uuid "400657d4-16f5-47c3-ad9c-868a84c5944e")
 		)
-		(fp_text user "+"
-			(at -43 6.25 180)
-			(layer "B.SilkS")
-			(uuid "d96a3324-3342-4d5e-ba0c-0af5a9484802")
-			(effects
-				(font
-					(size 2 2)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(fp_text user "${REFERENCE}"
 			(at -27 -4 180)
 			(layer "B.Fab")
@@ -8967,6 +8955,54 @@
 		(fill no)
 		(layer "F.SilkS")
 		(uuid "dec2db6b-c836-4d35-ae55-0153ad8b7d8c")
+	)
+	(gr_text "+"
+		(at 187.5 112.15 0)
+		(layer "F.SilkS")
+		(uuid "c6fa44cc-7cbb-40c0-9967-9f014a34f662")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 133 86.5 90)
+		(layer "B.SilkS")
+		(uuid "784e1e58-a37c-4e83-a520-0f25876be0a7")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.4)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 224 91.2 0)
+		(layer "B.SilkS")
+		(uuid "9854aa2e-d542-4c5d-b889-a95140a46b35")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 0.4)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 195.5 106 0)
+		(layer "F.SilkS")
+		(uuid "42536cef-65c3-4052-8192-49752a70100b")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+			)
+			(justify left bottom)
+		)
 	)
 	(gr_poly
 		(pts
