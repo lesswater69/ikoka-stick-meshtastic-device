@@ -1,19 +1,19 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-BT1,Battery_Cell,BatteryHolder_MYOUNG_BH-21700-B1BJ001_1x21700,177.0,-98.7625,0.0,bottom
+BT1,Battery_Cell,BatteryHolder_MYOUNG_BH-21700-B1BJ001_1x21700,177.25,-99.9125,0.0,bottom
 C1,22uF,C_0603_1608Metric,179.5,-110.0,180.0,top
 C2,22uF,C_0603_1608Metric,176.5,-111.5,0.0,top
 C3,47uF,C_0805_2012Metric,170.75,-111.0,-90.0,top
 C4,47uF,C_0805_2012Metric,172.75,-111.0,-90.0,top
 D1,SS34,D_SMA,173.2,-107.5,0.0,top
 D3,SS34,D_SMA,184.5,-110.5,0.0,top
-J1,Conn_Coaxial,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,127.35,-100.0,180.0,top
+J1,Conn_Coaxial,SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount,127.35,-100.0,270.0,top
 J2,Conn_01x07_Socket,PinSocket_1x07_P2.54mm_Vertical_SMD_Pin1Left,214.5,-92.38,0.0,top
 J3,Conn_01x07_Socket,PinSocket_1x07_P2.54mm_Vertical_SMD_Pin1Left,214.5,-107.62,180.0,top
 J4,Conn_01x02,Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal,191.15,-108.0,90.0,top
 J5,Conn_01x02,Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal,198.65,-102.25,90.0,top
-J6,Conn_01x04,PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right,173.0,-100.0,0.0,top
+J6,Conn_01x04,PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right,173.0,-100.0,90.0,top
 L1,22uH,L_Sunlord_MWSA0624S,181.0,-100.75,0.0,top
-Q1,AO3401A,SOT-23,183.25,-106.75,180.0,top
+Q1,AO3401A,SOT-23,183.25,-106.75,90.0,top
 R1,300K,R_0603_1608Metric,176.5,-110.0,0.0,top
 R2,39K,R_0603_1608Metric,179.5,-111.5,0.0,top
 R3,100k,R_0603_1608Metric,187.25,-107.25,90.0,top
